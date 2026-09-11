@@ -26,13 +26,13 @@
 name:        北尘(重生版)
 handle:      Re-BeiChen
 status:      😇 Reborn
-focus:       自部署开发者工具 · 桌面应用 · 团队站点
+focus:       自部署开发者工具 · 桌面应用 · 团队协作
 stack:       [Vue 3, TypeScript, Fastify, Electron, Vite]
 philosophy:  隐私优先 / 一体化 / 开箱即用
 ```
 
 > 喜欢造轮子，专注做"自部署、隐私优先"的工具。
-> 主要活跃在 Vue 3 + TypeScript 生态，偶尔折腾桌面端与 Node 后端。
+> 同时活跃在多个开源团队，参与工具、Agent、域名协作等方向的开发。
 
 <br/>
 
@@ -55,32 +55,104 @@ philosophy:  隐私优先 / 一体化 / 开箱即用
       <p align="center"><a href="https://github.com/Re-BeiChen/ittools">→ 查看仓库</a></p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">🎵 SPlayer-Next</h3>
+      <h3 align="center">📱 SPlayer for Android</h3>
       <p align="center">
-        <strong>跨平台桌面音乐播放器</strong><br/>
-        丰富歌词支持 · 多种音频格式兼容 · 桌面端体验
+        <strong>SPlayer 安卓版 · 移动端音乐播放器</strong><br/>
+        逐字歌词 · 流媒体播放 · 桌面歌词 · Vue 3 + Capacitor
       </p>
       <p align="center">
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-        <img src="https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white" />
         <img src="https://img.shields.io/badge/Vue-3-42B883?style=flat-square&logo=vue.js&logoColor=white" />
-        <img src="https://img.shields.io/github/stars/Re-BeiChen/SPlayer-Next?style=flat-square&color=EAB308" />
+        <img src="https://img.shields.io/badge/Capacitor-119EFF?style=flat-square&logo=capacitor&logoColor=white" />
+        <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" />
+        <img src="https://img.shields.io/github/stars/SPlayer-Dev/SPlayer-for-Android?style=flat-square&color=EAB308" />
       </p>
-      <p align="center"><a href="https://github.com/Re-BeiChen/SPlayer-Next">→ 查看仓库</a></p>
+      <p align="center"><a href="https://github.com/SPlayer-Dev/SPlayer-for-Android">→ 查看仓库</a></p>
     </td>
   </tr>
   <tr>
-    <td colspan="2" valign="top">
-      <h3 align="center">🏢 official-website</h3>
+    <td width="50%" valign="top">
+      <h3 align="center">🌐 DMHub</h3>
       <p align="center">
-        <strong>Fishpond Studio 团队主页</strong><br/>
-        Fork 自 <a href="https://github.com/fishpond-studio/official-website">fishpond-studio/official-website</a>
+        <strong>小型团队开源域名协作管理平台</strong><br/>
+        为小团队提供统一、可协作的域名资产管理与分配
       </p>
       <p align="center">
-        <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
         <img src="https://img.shields.io/badge/Fishpond-0F172A?style=flat-square" />
       </p>
-      <p align="center"><a href="https://github.com/Re-BeiChen/official-website">→ 查看仓库</a></p>
+      <p align="center"><a href="https://github.com/fishpond-studio/DMHub">→ 查看仓库</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🤖 Koid</h3>
+      <p align="center">
+        <strong>开源 Vibe Coding 桌面端 Agent</strong><br/>
+        本地优先 · 插件优先 · 兼顾桌面端的美观体验
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Vue-3-42B883?style=flat-square&logo=vue.js&logoColor=white" />
+        <img src="https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white" />
+        <img src="https://img.shields.io/badge/Fishpond-0F172A?style=flat-square" />
+      </p>
+      <p align="center"><a href="https://github.com/fishpond-studio/Koid">→ 查看仓库</a></p>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+## 👥 加入的团队
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🐟 Fishpond Studio</h3>
+      <p align="center">
+        <strong>创始成员</strong><br/>
+        独立开源工作室，致力于打造隐私优先、自部署友好的开发者工具
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Role-Founder-0F172A?style=flat-square" />
+        <img src="https://img.shields.io/badge/Org-Fishpond%20Studio-1E293B?style=flat-square&logoColor=E2E8F0" />
+      </p>
+      <p align="center"><a href="https://github.com/fishpond-studio">→ 组织主页</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🔆 光圈棱镜</h3>
+      <p align="center">
+        <strong>创始者之一</strong><br/>
+        创意 / 设计驱动的小型团队，关注工具与体验的结合
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Role-Co--Founder-0F172A?style=flat-square" />
+        <img src="https://img.shields.io/badge/Type-Creative%20Studio-1E293B?style=flat-square&logoColor=E2E8F0" />
+      </p>
+      <p align="center">→ 团队主页</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🛡️ MCJPG</h3>
+      <p align="center">
+        <strong>审核</strong><br/>
+        负责社区内容审核与质量把控，维护良好的协作秩序
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Role-Reviewer-0F172A?style=flat-square" />
+        <img src="https://img.shields.io/badge/Type-Minecraft%20Community-1E293B?style=flat-square&logoColor=E2E8F0" />
+      </p>
+      <p align="center">→ 团队主页</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🦊 FurCraft</h3>
+      <p align="center">
+        <strong>创始者</strong><br/>
+        兽圈创作与工具生态的早期开拓者之一
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Role-Founder-0F172A?style=flat-square" />
+        <img src="https://img.shields.io/badge/Type-Furry%20Community-1E293B?style=flat-square&logoColor=E2E8F0" />
+      </p>
+      <p align="center">→ 团队主页</p>
     </td>
   </tr>
 </table>
@@ -119,8 +191,8 @@ philosophy:  隐私优先 / 一体化 / 开箱即用
     <img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=E2E8F0" />
   </a>
   &nbsp;
-  <a href="https://github.com/Re-BeiChen/ittools">
-    <img src="https://img.shields.io/badge/Featured%20Project-ittools-1E293B?style=for-the-badge&logo=vue.js&logoColor=42B883" />
+  <a href="https://github.com/fishpond-studio">
+    <img src="https://img.shields.io/badge/Org-Fishpond%20Studio-1E293B?style=for-the-badge&logoColor=E2E8F0" />
   </a>
 </p>
 

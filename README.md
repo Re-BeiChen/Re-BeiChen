@@ -107,8 +107,7 @@ philosophy:  隐私优先 / 一体化 / 开箱即用
     <td width="50%" valign="top">
       <h3 align="center">🐟 Fishpond Studio</h3>
       <p align="center">
-        <strong>创始成员</strong><br/>
-        独立开源工作室，致力于打造隐私优先、自部署友好的开发者工具
+        <strong>创始成员</strong>
       </p>
       <p align="center">
         <img src="https://img.shields.io/badge/Role-Founder-0F172A?style=flat-square" />
@@ -119,8 +118,7 @@ philosophy:  隐私优先 / 一体化 / 开箱即用
     <td width="50%" valign="top">
       <h3 align="center">🔆 光圈棱镜</h3>
       <p align="center">
-        <strong>创始者之一</strong><br/>
-        创意 / 设计驱动的小型团队，关注工具与体验的结合
+        <strong>创始者之一</strong>
       </p>
       <p align="center">
         <img src="https://img.shields.io/badge/Role-Co--Founder-0F172A?style=flat-square" />
@@ -133,8 +131,7 @@ philosophy:  隐私优先 / 一体化 / 开箱即用
     <td width="50%" valign="top">
       <h3 align="center">🛡️ MCJPG</h3>
       <p align="center">
-        <strong>审核</strong><br/>
-        负责社区内容审核与质量把控，维护良好的协作秩序
+        <strong>审核</strong>
       </p>
       <p align="center">
         <img src="https://img.shields.io/badge/Role-Reviewer-0F172A?style=flat-square" />
@@ -145,8 +142,7 @@ philosophy:  隐私优先 / 一体化 / 开箱即用
     <td width="50%" valign="top">
       <h3 align="center">🦊 FurCraft</h3>
       <p align="center">
-        <strong>创始者</strong><br/>
-        兽圈创作与工具生态的早期开拓者之一
+        <strong>创始者</strong>
       </p>
       <p align="center">
         <img src="https://img.shields.io/badge/Role-Founder-0F172A?style=flat-square" />

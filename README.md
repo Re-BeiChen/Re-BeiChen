@@ -171,12 +171,12 @@ principle:   隐私优先 · 自部署友好 · 开箱即用
 ## 📊 GitHub 数据
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Re-BeiChen&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0F172A&title_color=E2E8F0&icon_color=94A3B8&text_color=94A3B8" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Re-BeiChen&layout=compact&theme=tokyonight&hide_border=true&bg_color=0F172A&title_color=E2E8F0&text_color=94A3B8" />
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Re-BeiChen&theme=tokyonight&hide_border=true&bg_color=0F172A&title_color=E2E8F0&text_color=94A3B8" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Re-BeiChen&theme=tokyonight&hide_border=true&background=0F172A&stroke=1E293B&ring=E2E8F0&fire=EAB308&currStreakLabel=E2E8F0&sideLabels=94A3B8&dates=64748B" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Re-BeiChen&theme=tokyonight&hide_border=true&bg_color=0F172A&title_color=E2E8F0&text_color=94A3B8" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Re-BeiChen&theme=tokyonight&hide_border=true&bg_color=0F172A&title_color=E2E8F0&text_color=94A3B8" />
 </div>
 
 <br/>

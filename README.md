@@ -23,16 +23,17 @@
 ## 👋 关于我
 
 ```yaml
-name:        北尘(重生版)
-handle:      Re-BeiChen
+name:        北尘(重生版)  /  Re-BeiChen
 status:      😇 Reborn
-focus:       自部署开发者工具 · 桌面应用 · 团队协作
+role:        自部署开发者工具作者 · 开源团队创始成员
+working_on:  [ittools, SPlayer-for-Android, DMHub, Koid]
+teams:       [Fishpond Studio, 光圈棱镜, FurCraft, MCJPG]
 stack:       [Vue 3, TypeScript, Fastify, Electron, Vite]
-philosophy:  隐私优先 / 一体化 / 开箱即用
+principle:   隐私优先 · 自部署友好 · 开箱即用
 ```
 
-> 喜欢造轮子，专注做"自部署、隐私优先"的工具。
-> 同时活跃在多个开源团队，参与工具、Agent、域名协作等方向的开发。
+> 喜欢把"想法"做成"工具"。
+> 活跃在 [Fishpond Studio](https://fishpond.studio/) 等开源团队，参与工具、桌面端 Agent、域名协作等方向的开发。
 
 <br/>
 
@@ -191,7 +192,9 @@ philosophy:  隐私优先 / 一体化 / 开箱即用
     <img src="https://img.shields.io/badge/Email-beichen%40fpstd.com-1E293B?style=for-the-badge&logo=gmail&logoColor=E2E8F0" />
   </a>
   &nbsp;
-  <img src="https://img.shields.io/badge/QQ-3579267163-1E293B?style=for-the-badge&logo=tencent-qq&logoColor=E2E8F0" />
+  <a href="https://qm.qq.com/q/9N9WcLqDPW">
+    <img src="https://img.shields.io/badge/QQ-3579267163-1E293B?style=for-the-badge&logo=tencent-qq&logoColor=E2E8F0" />
+  </a>
 </p>
 
 <br/>

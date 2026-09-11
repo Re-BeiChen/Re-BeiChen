@@ -184,13 +184,19 @@ philosophy:  隐私优先 / 一体化 / 开箱即用
 
 <p align="center">
   <a href="https://github.com/Re-BeiChen">
-    <img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=E2E8F0" />
+    <img src="https://img.shields.io/badge/GitHub-Re--BeiChen-0F172A?style=for-the-badge&logo=github&logoColor=E2E8F0" />
   </a>
   &nbsp;
-  <a href="https://github.com/fishpond-studio">
-    <img src="https://img.shields.io/badge/Org-Fishpond%20Studio-1E293B?style=for-the-badge&logoColor=E2E8F0" />
+  <a href="mailto:beichen@fpstd.com">
+    <img src="https://img.shields.io/badge/Email-beichen%40fpstd.com-1E293B?style=for-the-badge&logo=gmail&logoColor=E2E8F0" />
   </a>
+  &nbsp;
+  <img src="https://img.shields.io/badge/QQ-3579267163-1E293B?style=for-the-badge&logo=tencent-qq&logoColor=E2E8F0" />
 </p>
+
+<br/>
+
+> ⚠️ **账号说明**：此前曾使用 <code>Bei-Chen-Leo</code> 这个 GitHub 账号，但因未知原因被 flagged，现已迁移至新账号 <a href="https://github.com/Re-BeiChen"><code>Re-BeiChen</code></a>。
 
 <br/>
 

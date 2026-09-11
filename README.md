@@ -100,65 +100,6 @@ philosophy:  隐私优先 / 一体化 / 开箱即用
 
 <br/>
 
-## 👥 加入的团队
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🐟 Fishpond Studio</h3>
-      <p align="center">
-        <strong>创始成员</strong><br/>
-        独立开源工作室，致力于打造隐私优先、自部署友好的开发者工具
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Role-Founder-0F172A?style=flat-square" />
-        <img src="https://img.shields.io/badge/Org-Fishpond%20Studio-1E293B?style=flat-square&logoColor=E2E8F0" />
-      </p>
-      <p align="center"><a href="https://github.com/fishpond-studio">→ 组织主页</a></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🔆 光圈棱镜</h3>
-      <p align="center">
-        <strong>创始者之一</strong><br/>
-        创意 / 设计驱动的小型团队，关注工具与体验的结合
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Role-Co--Founder-0F172A?style=flat-square" />
-        <img src="https://img.shields.io/badge/Type-Creative%20Studio-1E293B?style=flat-square&logoColor=E2E8F0" />
-      </p>
-      <p align="center">→ 团队主页</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🛡️ MCJPG</h3>
-      <p align="center">
-        <strong>审核</strong><br/>
-        负责社区内容审核与质量把控，维护良好的协作秩序
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Role-Reviewer-0F172A?style=flat-square" />
-        <img src="https://img.shields.io/badge/Type-Minecraft%20Community-1E293B?style=flat-square&logoColor=E2E8F0" />
-      </p>
-      <p align="center">→ 团队主页</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🦊 FurCraft</h3>
-      <p align="center">
-        <strong>创始者</strong><br/>
-        兽圈创作与工具生态的早期开拓者之一
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Role-Founder-0F172A?style=flat-square" />
-        <img src="https://img.shields.io/badge/Type-Furry%20Community-1E293B?style=flat-square&logoColor=E2E8F0" />
-      </p>
-      <p align="center">→ 团队主页</p>
-    </td>
-  </tr>
-</table>
-
-<br/>
-
 ## 🛠 技术栈
 
 <p align="center">

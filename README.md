@@ -91,7 +91,7 @@ principle:   隐私优先 · 自部署友好 · 开箱即用
       </p>
       <p align="center">
         <img src="https://img.shields.io/badge/Vue-3-42B883?style=flat-square&logo=vue.js&logoColor=white" />
-        <img src="https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white" />
+        <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" />
         <img src="https://img.shields.io/badge/Fishpond-0F172A?style=flat-square" />
       </p>
       <p align="center"><a href="https://github.com/fishpond-studio/Koid">→ 查看仓库</a></p>
@@ -119,10 +119,10 @@ principle:   隐私优先 · 自部署友好 · 开箱即用
     <td width="50%" valign="top">
       <h3 align="center">🔆 光圈棱镜</h3>
       <p align="center">
-        <strong>创始者之一</strong>
+        <strong>创始成员</strong>
       </p>
       <p align="center">
-        <img src="https://img.shields.io/badge/Role-Co--Founder-0F172A?style=flat-square" />
+        <img src="https://img.shields.io/badge/Role-Founder-0F172A?style=flat-square" />
         <img src="https://img.shields.io/badge/Team-光圈棱镜-1E293B?style=flat-square&logoColor=E2E8F0" />
       </p>
       <p align="center"><a href="https://aprism.top/">→ 团队主页</a></p>
